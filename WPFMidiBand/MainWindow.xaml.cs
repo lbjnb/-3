@@ -572,7 +572,7 @@ namespace WPFMidiBand
             {
                 btnReplayCheck = false;
                 name = "Default";
-                btnReplay.Content = name;
+                btnReplay.Content = name ;
             }
             else
             {
